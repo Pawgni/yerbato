@@ -1,0 +1,33 @@
+{
+  "name": "projektpg",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node backend/app.js",
+    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/app.js",
+    "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/app.js",
+    "seeder": "node backend/seeder/seeder.js"
+  },
+  "author": "Paweł Gniewek",
+  "license": "ISC",
+  "dependencies": {
+    "@chatscope/chat-ui-kit-react": "^2.0.3",
+    "@chatscope/chat-ui-kit-styles": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.1.0",
+    "cookie-parser": "^1.4.6",
+    "countries-list": "^3.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.1",
+    "nodemailer": "^6.9.12",
+    "openai": "^4.33.0",
+    "react-star-ratings": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
