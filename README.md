@@ -42,7 +42,7 @@ Yerbato to aplikacja e-commerce zaprojektowana, aby zapewnić doświadczenie zak
 ## Screenshots
 
 **Strona główna**
-![](Screenshots/yerbator_wyswietl.png)
+![](Screenshots/yerbator_wysietl.png)
 
 **Szczegóły**
 ![](Screenshots/szczegoly.png)
