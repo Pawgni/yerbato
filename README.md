@@ -5,6 +5,7 @@
 - [Wstęp](#wstęp)
 - [Funkcje](#funkcje)
 - [Technologie](#technologie)
+- [Screenshots](#screenshots)
 - [Instalacja i konfiguracja](#instalacja-i-konfiguracja)
 - [Użytkowanie](#użytkowanie)
 - [Wkład w projekt](#wkład-w-projekt)
@@ -37,6 +38,45 @@ Yerbato to aplikacja e-commerce zaprojektowana, aby zapewnić doświadczenie zak
 - **Chatbot**: API OpenAI
 - **Autoryzacja**: JSON Web Tokens (JWT)
 - **Stylizacja**: CSS, Bootstrap
+  
+## Screenshots
+
+**Strona główna**
+![Strona główna](Screenshots/yerbator_wyswietl.png)
+
+**Szczegóły**
+![Szczegóły](Screenshots/szczegoly.png)
+
+**Szukanie i filtrowanie**
+![Szukanie i filtrowanie](Screenshots/szukanie_i_filtrowanie.png)
+
+**Koszyk**
+![Koszyk](Screenshots/koszyk.png)
+
+**Chat Odpowiedzi**
+![Chat Odpowiedzi](Screenshots/yerbatopoprawne.jpg)
+
+**Chat Odpowiedzi**
+![Chat Odpowiedzi](Screenshots/yerbatobledne.jpg)
+
+**Panel Administratora**
+![Panel Administratora](Screenshots/panelAdministratora.png)
+
+**Panel Użytkownika**
+![Panel Użytkownika](Screenshots/uzytkownik_panel.png)
+
+**Oceny i opinie**
+![Oceny i opinie](Screenshots/oceny_i_opinie.png)
+
+**Logowanie**
+![Logowanie](Screenshots/logowanie.png)
+
+**Rejestracja**
+![Rejestracja](Screenshots/Rejestracja.png)
+
+**Lista produktów**
+![Lista produktów](Screenshots/Produkty_listy.png)
+
 
 ## Instalacja i konfiguracja
 
