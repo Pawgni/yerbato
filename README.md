@@ -42,40 +42,40 @@ Yerbato to aplikacja e-commerce zaprojektowana, aby zapewnić doświadczenie zak
 ## Screenshots
 
 **Strona główna**
-!(Screenshots/yerbator_wyswietl.png)
+![](Screenshots/yerbator_wyswietl.png)
 
 **Szczegóły**
-!(Screenshots/szczegoly.png)
+![](Screenshots/szczegoly.png)
 
 **Szukanie i filtrowanie**
-!(Screenshots/szukanie_i_filtrowanie.png)
+![](Screenshots/szukanie_i_filtrowanie.png)
 
 **Koszyk**
-!(Screenshots/koszyk.png)
+![](Screenshots/koszyk.png)
 
 **Chat Odpowiedzi**
-!(Screenshots/yerbatopoprawne.jpg)
+![](Screenshots/yerbatopoprawne.jpg)
 
 **Chat Odpowiedzi**
-!(Screenshots/yerbatobledne.jpg)
+![](Screenshots/yerbatobledne.jpg)
 
 **Panel Administratora**
-!(Screenshots/panelAdministratora.png)
+![](Screenshots/panelAdministratora.png)
 
 **Panel Użytkownika**
-!(Screenshots/uzytkownik_panel.png)
+![](Screenshots/uzytkownik_panel.png)
 
 **Oceny i opinie**
-!(Screenshots/oceny_i_opinie.png)
+![](Screenshots/oceny_i_opinie.png)
 
 **Logowanie**
-!(Screenshots/logowanie.png)
+![](Screenshots/logowanie.png)
 
 **Rejestracja**
-!(Screenshots/Rejestracja.png)
+![](Screenshots/Rejestracja.png)
 
 **Lista produktów**
-!(Screenshots/Produkty_listy.png)
+![](Screenshots/Produkty_listy.png)
 
 
 ## Instalacja i konfiguracja
