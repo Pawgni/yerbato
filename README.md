@@ -42,40 +42,40 @@ Yerbato to aplikacja e-commerce zaprojektowana, aby zapewnić doświadczenie zak
 ## Screenshots
 
 **Strona główna**
-![Strona główna](Screenshots/yerbator_wyswietl.png)
+!(Screenshots/yerbator_wyswietl.png)
 
 **Szczegóły**
-![Szczegóły](Screenshots/szczegoly.png)
+!(Screenshots/szczegoly.png)
 
 **Szukanie i filtrowanie**
-![Szukanie i filtrowanie](Screenshots/szukanie_i_filtrowanie.png)
+!(Screenshots/szukanie_i_filtrowanie.png)
 
 **Koszyk**
-![Koszyk](Screenshots/koszyk.png)
+!(Screenshots/koszyk.png)
 
 **Chat Odpowiedzi**
-![Chat Odpowiedzi](Screenshots/yerbatopoprawne.jpg)
+!(Screenshots/yerbatopoprawne.jpg)
 
 **Chat Odpowiedzi**
-![Chat Odpowiedzi](Screenshots/yerbatobledne.jpg)
+!(Screenshots/yerbatobledne.jpg)
 
 **Panel Administratora**
-![Panel Administratora](Screenshots/panelAdministratora.png)
+!(Screenshots/panelAdministratora.png)
 
 **Panel Użytkownika**
-![Panel Użytkownika](Screenshots/uzytkownik_panel.png)
+!(Screenshots/uzytkownik_panel.png)
 
 **Oceny i opinie**
-![Oceny i opinie](Screenshots/oceny_i_opinie.png)
+!(Screenshots/oceny_i_opinie.png)
 
 **Logowanie**
-![Logowanie](Screenshots/logowanie.png)
+!(Screenshots/logowanie.png)
 
 **Rejestracja**
-![Rejestracja](Screenshots/Rejestracja.png)
+!(Screenshots/Rejestracja.png)
 
 **Lista produktów**
-![Lista produktów](Screenshots/Produkty_listy.png)
+!(Screenshots/Produkty_listy.png)
 
 
 ## Instalacja i konfiguracja
