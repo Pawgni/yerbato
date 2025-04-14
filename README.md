@@ -139,18 +139,4 @@ Aplikacja uruchomi się na `http://localhost:3000`.
 
 - Użyj zintegrowanego chatbota, aby uzyskać pomoc i zapytania dotyczące produktów i zamówień.
 
-## Wkład w projekt
-
-Zapraszamy do współpracy! Proszę postępować zgodnie z poniższymi krokami:
-
-1. Sforkuj repozytorium.
-2. Utwórz nową gałąź (`git checkout -b feature-branch`).
-3. Wprowadź swoje zmiany.
-4. Zatwierdź swoje zmiany (`git commit -m 'Add new feature'`).
-5. Wypchnij na gałąź (`git push origin feature-branch`).
-6. Otwórz Pull Request.
-
-## Kontakt
-
-W razie pytań lub potrzeby wsparcia, proszę kontaktować się pod adresem pawelgniew02@gmail.com
 
